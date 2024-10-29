@@ -1,0 +1,27 @@
+.favorite {
+  text-align: center;
+  padding: 10 px 40 px;
+  &-card {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    img {
+      width: 200px;
+      transition: all 0.3s;
+      &:hover {
+        scale: 1.18;
+        cursor: pointer;
+      }
+    }
+  }
+}
+// * Responsive Tasarım
+
+@media (max-width: 850px) {
+  .favorite {
+    &-card {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+}
