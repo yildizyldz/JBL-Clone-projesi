@@ -1,4 +1,4 @@
-# JBL-Clone-projesi
+![udemig tur](https://github.com/user-attachments/assets/02d48d9d-2b04-4abc-a32d-6f697c97d35a)# JBL-Clone-projesi
 
 
 Bu proje, JBL'in web sitesinin bir klonunu oluşturmak için HTML, CSS ve SCSS kullanılarak geliştirilmiştir. Proje, kullanıcıların JBL ürünlerini keşfetmelerine olanak tanır.
@@ -17,4 +17,5 @@ Bu proje, JBL'in web sitesinin bir klonunu oluşturmak için HTML, CSS ve SCSS k
 - CSS3
 - SCSS
 
-![](./images/screen.gif.mp4)
+
+![]()
