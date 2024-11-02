@@ -17,4 +17,4 @@ Bu proje, JBL'in web sitesinin bir klonunu oluşturmak için HTML, CSS ve SCSS k
 - CSS3
 - SCSS
 
-![]()
+![](./images/screen.gif.mp4)
